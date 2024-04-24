@@ -1,0 +1,32 @@
+# Node.js
+/node_modules
+
+# Express.js
+.env
+
+# Compiled output
+*.log
+*.min.js
+*.min.css
+
+# IDE files
+.vscode/
+.idea/
+
+# Dependency directories
+/yarn-error.log
+npm-debug.log
+
+# User-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Dependency lock files
+yarn.lock
+package-lock.json
